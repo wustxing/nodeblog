@@ -1,0 +1,1707 @@
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-25T13:01:58.575Z GET / ::1
+Completed 500 [32m(57ms)[39m
+
+
+Started 2015-10-25T13:01:58.755Z GET /favicon.ico ::1
+Completed 500 [32m(18ms)[39m
+
+
+Started 2015-10-25T13:01:58.774Z GET /favicon.ico ::1
+Completed 500 [32m(51ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-25T13:15:45.386Z GET / ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-25T13:17:48.338Z GET / ::1
+  Render view index [32m(24ms)[39m
+Completed 200 [32m(235ms)[39m
+
+
+Started 2015-10-25T13:17:48.822Z GET /www.ypintao.com ::1
+
+
+Started 2015-10-25T13:17:48.843Z GET /wustxing ::1
+
+
+Started 2015-10-25T13:17:48.950Z GET /www.ypintao.com ::1
+Completed 404 [32m(488ms)[39m
+Completed 404 [32m(541ms)[39m
+Completed 404 [32m(437ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-25T13:39:04.205Z GET / ::1
+  Render view index [32m(29ms)[39m
+Completed 200 [32m(80ms)[39m
+
+
+Started 2015-10-25T13:39:04.509Z GET /wustxing ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-10-25T13:39:04.690Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-10-25T13:41:38.990Z GET /signin ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-25T13:43:22.890Z GET /getstart ::1
+Completed 404 [32m(3ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-25T13:44:18.988Z GET / ::1
+  Render view index [32m(26ms)[39m
+Completed 200 [32m(112ms)[39m
+
+
+Started 2015-10-25T13:44:19.336Z GET /wustxing ::1
+Completed 404 [32m(12ms)[39m
+
+
+Started 2015-10-25T13:44:21.075Z GET /getstart ::1
+  Render view static/getstart [32m(110ms)[39m
+Completed 200 [32m(117ms)[39m
+
+
+Started 2015-10-25T13:44:21.309Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-25T13:44:21.478Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-25T13:44:23.027Z GET / ::1
+  Render view index [32m(6ms)[39m
+Completed 304 [32m(49ms)[39m
+
+
+Started 2015-10-25T13:44:23.167Z GET /wustxing ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-10-25T13:44:23.280Z GET /wustxing ::1
+Completed 404 [32m(2ms)[39m
+
+
+Started 2015-10-25T13:44:24.378Z GET /api ::1
+  Render view static/api [32m(13ms)[39m
+Completed 200 [32m(15ms)[39m
+
+
+Started 2015-10-25T13:44:24.493Z GET /wustxing ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-10-25T13:44:24.641Z GET /wustxing ::1
+Completed 404 [32m(23ms)[39m
+
+
+Started 2015-10-25T13:44:25.436Z GET /about ::1
+  Render view static/about [32m(6ms)[39m
+Completed 200 [32m(10ms)[39m
+
+
+Started 2015-10-25T13:44:25.534Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-25T13:44:25.688Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+
+
+Started 2015-10-28T16:13:36.283Z GET /favicon.ico ::1
+Completed 500 [32m(94ms)[39m
+
+
+Started 2015-10-28T16:13:36.656Z GET / ::1
+Completed 500 [32m(16ms)[39m
+
+
+Started 2015-10-28T16:13:36.714Z GET /favicon.ico ::1
+Completed 500 [32m(33ms)[39m
+
+
+Started 2015-10-28T16:14:01.769Z GET / ::1
+Completed 500 [32m(13ms)[39m
+
+
+Started 2015-10-28T16:14:01.805Z GET /favicon.ico ::1
+Completed 500 [32m(15ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-28T16:14:11.947Z GET / ::1
+  Render view index [32m(50ms)[39m
+Completed 200 [32m(255ms)[39m
+
+
+Started 2015-10-28T16:14:12.531Z GET /wustxing ::1
+Completed 404 [32m(10ms)[39m
+
+
+Started 2015-10-28T16:14:12.761Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:14:12.773Z GET /www.ypintao.com ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-10-28T16:14:29.018Z GET /signin ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-28T16:14:29.035Z GET /favicon.ico ::1
+Completed 404 [32m(3ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-28T16:29:07.373Z GET /signin ::1
+  Render view sign/signin [32m(56ms)[39m
+Completed 200 [32m(72ms)[39m
+
+
+Started 2015-10-28T16:29:07.669Z GET /wustxing ::1
+Completed 404 [32m(7ms)[39m
+
+
+Started 2015-10-28T16:29:07.883Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:36:36.058Z GET /signin ::1
+  Render view sign/signin [32m(8ms)[39m
+Completed 304 [32m(16ms)[39m
+
+
+Started 2015-10-28T16:36:36.181Z GET /wustxing ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-10-28T16:36:36.307Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-28T16:37:50.729Z GET /signin ::1
+  Render view sign/signin [32m(20ms)[39m
+Completed 200 [32m(38ms)[39m
+
+
+Started 2015-10-28T16:37:51.001Z GET /wustxing ::1
+Completed 404 [32m(7ms)[39m
+
+
+Started 2015-10-28T16:37:51.156Z GET /wustxing ::1
+Completed 404 [32m(2ms)[39m
+
+
+Started 2015-10-28T16:37:55.208Z GET /signin ::1
+  Render view sign/signin [32m(7ms)[39m
+Completed 304 [32m(12ms)[39m
+
+
+Started 2015-10-28T16:37:55.332Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:37:55.457Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-28T16:38:14.662Z GET /signin ::1
+  Render view sign/signin [32m(4ms)[39m
+Completed 304 [32m(10ms)[39m
+
+
+Started 2015-10-28T16:38:14.782Z GET /wustxing ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-10-28T16:38:14.925Z GET /wustxing ::1
+Completed 404 [32m(7ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-10-28T16:39:26.333Z GET / ::1
+  Render view index [32m(20ms)[39m
+Completed 200 [32m(56ms)[39m
+
+
+Started 2015-10-28T16:39:26.593Z GET /wustxing ::1
+Completed 404 [32m(9ms)[39m
+
+
+Started 2015-10-28T16:39:26.748Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:39:50.959Z GET /signup ::1
+  Render view sign/signup [32m(44ms)[39m
+Completed 200 [32m(48ms)[39m
+
+
+Started 2015-10-28T16:39:51.106Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-10-28T16:39:51.265Z GET /wustxing ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-10-28T16:40:03.631Z GET /signin ::1
+  Render view sign/signin [32m(7ms)[39m
+Completed 200 [32m(13ms)[39m
+
+
+Started 2015-10-28T16:40:03.800Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-28T16:40:03.941Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-28T16:40:21.600Z GET /signup ::1
+  Render view sign/signup [32m(3ms)[39m
+Completed 304 [32m(5ms)[39m
+
+
+Started 2015-10-28T16:40:21.716Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-28T16:40:21.843Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-10-28T16:40:23.496Z GET /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 304 [32m(8ms)[39m
+
+
+Started 2015-10-28T16:40:23.570Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:40:23.704Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:40:31.416Z GET /about ::1
+  Render view static/about [32m(109ms)[39m
+Completed 200 [32m(112ms)[39m
+
+
+Started 2015-10-28T16:40:31.600Z GET /wustxing ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-10-28T16:40:31.812Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-10-28T16:40:33.752Z GET /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 304 [32m(7ms)[39m
+
+
+Started 2015-10-28T16:40:33.822Z GET /wustxing ::1
+Completed 404 [32m(7ms)[39m
+
+
+Started 2015-10-28T16:40:33.960Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+
+
+Started 2015-11-07T06:55:00.596Z GET /favicon.ico ::1
+Completed 500 [32m(158ms)[39m
+
+
+Started 2015-11-07T06:55:01.505Z GET / ::1
+Completed 500 [32m(14ms)[39m
+
+
+Started 2015-11-07T06:55:01.567Z GET /favicon.ico ::1
+Completed 500 [32m(37ms)[39m
+
+
+Started 2015-11-07T06:55:58.182Z GET / ::1
+  Render view index [32m(114ms)[39m
+Completed 200 [32m(717ms)[39m
+
+
+Started 2015-11-07T06:55:59.151Z GET /wustxing ::1
+Completed 404 [32m(9ms)[39m
+
+
+Started 2015-11-07T06:56:00.030Z GET /www.ypintao.com ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-11-07T06:56:14.818Z GET /?tab=good ::1
+  Render view index [32m(11ms)[39m
+Completed 200 [32m(25ms)[39m
+
+
+Started 2015-11-07T06:56:14.950Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-07T06:56:15.736Z GET /?tab=share ::1
+  Render view index [32m(4ms)[39m
+Completed 200 [32m(10ms)[39m
+
+
+Started 2015-11-07T06:56:15.844Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-07T06:56:16.519Z GET /?tab=ask ::1
+  Render view index [32m(3ms)[39m
+Completed 200 [32m(16ms)[39m
+
+
+Started 2015-11-07T06:56:16.621Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-11-07T06:56:16.658Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-11-07T06:56:17.079Z GET /?tab=share ::1
+  Render view index [32m(3ms)[39m
+Completed 304 [32m(11ms)[39m
+
+
+Started 2015-11-07T06:56:17.155Z GET /wustxing ::1
+Completed 404 [32m(7ms)[39m
+
+
+Started 2015-11-07T06:56:17.710Z GET /?tab=good ::1
+  Render view index [32m(12ms)[39m
+Completed 304 [32m(24ms)[39m
+
+
+Started 2015-11-07T06:56:17.799Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-11-07T06:56:17.861Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-07T06:56:35.511Z GET /signin ::1
+  Render view sign/signin [32m(40ms)[39m
+Completed 200 [32m(46ms)[39m
+
+
+Started 2015-11-07T06:56:35.607Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-11-07T06:56:35.668Z GET /wustxing ::1
+Completed 404 [32m(2ms)[39m
+
+
+Started 2015-11-07T06:56:38.114Z POST /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 422 [32m(80ms)[39m
+
+
+Started 2015-11-07T06:56:38.253Z GET /wustxing ::1
+Completed 404 [32m(7ms)[39m
+
+
+Started 2015-11-07T06:56:48.077Z POST /signin ::1
+  Render view sign/signin [32m(4ms)[39m
+Completed 403 [32m(78ms)[39m
+
+
+Started 2015-11-07T06:56:48.199Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-11-07T06:56:48.267Z GET /wustxing ::1
+Completed 404 [32m(2ms)[39m
+
+
+Started 2015-11-07T06:56:58.490Z POST /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 403 [32m(12ms)[39m
+
+
+Started 2015-11-07T06:56:58.568Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-07T06:56:58.614Z GET /wustxing ::1
+Completed 404 [32m(2ms)[39m
+
+
+Started 2015-11-07T06:58:37.639Z GET / ::1
+  Render view index [32m(3ms)[39m
+Completed 200 [32m(22ms)[39m
+
+
+Started 2015-11-07T06:58:37.734Z GET /wustxing ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-07T07:00:49.717Z GET / ::1
+  Render view index [32m(5ms)[39m
+Completed 304 [32m(47ms)[39m
+
+
+Started 2015-11-07T07:00:49.838Z GET /wustxing ::1
+Completed 404 [32m(9ms)[39m
+
+
+Started 2015-11-07T07:00:51.359Z GET / ::1
+  Render view index [32m(4ms)[39m
+Completed 304 [32m(13ms)[39m
+
+
+Started 2015-11-07T07:00:51.439Z GET /wustxing ::1
+Completed 404 [32m(2ms)[39m
+
+
+Started 2015-11-07T07:00:52.407Z GET / ::1
+  Render view index [32m(3ms)[39m
+Completed 304 [32m(16ms)[39m
+
+
+Started 2015-11-07T07:00:52.526Z GET /wustxing ::1
+Completed 404 [32m(33ms)[39m
+
+
+Started 2015-11-07T07:00:53.209Z GET / ::1
+  Render view index [32m(5ms)[39m
+Completed 304 [32m(15ms)[39m
+
+
+Started 2015-11-07T07:00:53.315Z GET /wustxing ::1
+Completed 404 [32m(3ms)[39m
+
+
+Started 2015-11-07T07:00:56.371Z GET / ::1
+  Render view index [32m(5ms)[39m
+Completed 200 [32m(16ms)[39m
+
+
+Started 2015-11-07T07:00:56.532Z GET /wustxing ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-11-07T07:00:56.714Z GET /wustxing ::1
+Completed 404 [32m(6ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T07:02:44.677Z GET / ::1
+  Render view index [32m(18ms)[39m
+Completed 200 [32m(54ms)[39m
+
+
+Started 2015-11-07T07:03:35.253Z GET /api ::1
+  Render view static/api [32m(74ms)[39m
+Completed 200 [32m(85ms)[39m
+
+
+Started 2015-11-07T07:03:44.200Z GET /search?q=wusting ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-11-07T07:03:44.243Z GET /favicon.ico ::1
+Completed 404 [32m(6ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T07:14:07.104Z GET /api ::1
+  Render view static/api [32m(49ms)[39m
+Completed 200 [32m(65ms)[39m
+
+
+Started 2015-11-07T07:14:13.070Z GET /search?q=sdd ::1
+Completed 302 [32m(8ms)[39m
+
+
+Started 2015-11-07T07:18:18.313Z GET /api ::1
+  Render view static/api [32m(17ms)[39m
+Completed 200 [32m(23ms)[39m
+
+
+Started 2015-11-07T07:18:26.632Z GET / ::1
+  Render view index [32m(6ms)[39m
+Completed 200 [32m(52ms)[39m
+
+
+Started 2015-11-07T07:18:35.359Z GET /?tab=ask ::1
+  Render view index [32m(5ms)[39m
+Completed 200 [32m(18ms)[39m
+
+
+Started 2015-11-07T07:18:36.661Z GET /?tab=share ::1
+  Render view index [32m(4ms)[39m
+Completed 200 [32m(14ms)[39m
+
+
+Started 2015-11-07T07:18:43.884Z GET /signin ::1
+  Render view sign/signin [32m(7ms)[39m
+Completed 200 [32m(11ms)[39m
+
+
+Started 2015-11-07T07:19:46.079Z GET /signin ::1
+  Render view sign/signin [32m(4ms)[39m
+Completed 304 [32m(6ms)[39m
+
+
+Started 2015-11-07T07:19:48.646Z GET / ::1
+  Render view index [32m(4ms)[39m
+Completed 304 [32m(17ms)[39m
+
+
+Started 2015-11-07T07:20:11.741Z GET / ::1
+  Render view index [32m(5ms)[39m
+Completed 200 [32m(15ms)[39m
+
+
+Started 2015-11-07T07:20:15.029Z GET /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 200 [32m(8ms)[39m
+
+
+Started 2015-11-07T07:20:17.719Z GET /signup ::1
+  Render view sign/signup [32m(33ms)[39m
+Completed 200 [32m(37ms)[39m
+
+
+Started 2015-11-07T07:20:37.321Z POST /signup ::1
+Completed 500 [32m(34ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T07:36:13.375Z GET / ::1
+  Render view index (112ms)
+Completed 200 (183ms)
+
+
+Started 2015-11-07T07:36:34.802Z GET /signup ::1
+  Render view sign/signup (14ms)
+Completed 200 (20ms)
+
+
+Started 2015-11-07T07:36:50.307Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:02:26.475Z GET /signup ::1
+  Render view sign/signup [32m(19ms)[39m
+Completed 200 [32m(35ms)[39m
+
+
+Started 2015-11-07T15:02:42.914Z POST /signup ::1
+Completed 500 [32m(39ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:04:25.397Z POST /signup ::1
+Completed 500 [32m(64ms)[39m
+
+
+Started 2015-11-07T15:04:30.030Z GET /signup ::1
+  Render view sign/signup [32m(13ms)[39m
+Completed 200 [32m(20ms)[39m
+
+
+Started 2015-11-07T15:04:53.941Z POST /signup ::1
+Completed 500 [32m(14ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:06:59.018Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:08:20.995Z GET /signup ::1
+  Render view sign/signup [32m(23ms)[39m
+Completed 200 [32m(43ms)[39m
+
+
+Started 2015-11-07T15:08:34.656Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:10:10.742Z GET /signup ::1
+  Render view sign/signup [32m(22ms)[39m
+Completed 200 [32m(38ms)[39m
+
+
+Started 2015-11-07T15:10:22.840Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:32:51.939Z GET /signup ::1
+  Render view sign/signup [32m(25ms)[39m
+Completed 200 [32m(42ms)[39m
+
+
+Started 2015-11-07T15:33:03.334Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:43:21.859Z GET /signup ::1
+  Render view sign/signup [32m(22ms)[39m
+Completed 200 [32m(37ms)[39m
+
+
+Started 2015-11-07T15:43:35.731Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:46:26.834Z GET /signup ::1
+  Render view sign/signup [32m(20ms)[39m
+Completed 200 [32m(37ms)[39m
+
+
+Started 2015-11-07T15:46:50.209Z POST /signup ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-07T15:48:04.224Z GET /signup ::1
+  Render view sign/signup [32m(21ms)[39m
+Completed 200 [32m(36ms)[39m
+
+
+Started 2015-11-07T15:48:19.664Z POST /signup ::1
+  Render view sign/signup [32m(7ms)[39m
+Completed 200 [32m(178ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T15:50:34.544Z POST /signup ::1
+  Render view sign/signup [32m(20ms)[39m
+Completed 200 [32m(198ms)[39m
+
+
+Started 2015-11-07T15:51:04.979Z GET /active_account?key=99fd53139bc9455e6c27e99047a79e7f&name=wustxing ::1
+  Render view notify/notify [32m(38ms)[39m
+Completed 200 [32m(238ms)[39m
+
+
+Started 2015-11-07T15:51:12.548Z GET / ::1
+  Render view index [32m(47ms)[39m
+Completed 200 [32m(69ms)[39m
+
+
+Started 2015-11-07T15:51:14.261Z GET /signin ::1
+  Render view sign/signin [32m(35ms)[39m
+Completed 200 [32m(44ms)[39m
+
+
+Started 2015-11-07T15:51:21.520Z POST /signin ::1
+Completed 302 [32m(119ms)[39m
+
+
+Started 2015-11-07T15:51:21.644Z GET / ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T15:55:55.993Z GET / ::1
+  Render view index [32m(45ms)[39m
+Completed 200 [32m(148ms)[39m
+
+
+Started 2015-11-07T15:56:03.554Z GET /user/wustxing ::1
+Completed 404 [32m(12ms)[39m
+
+
+Started 2015-11-07T15:56:07.254Z GET /?tab=good ::1
+  Render view index [32m(14ms)[39m
+Completed 200 [32m(26ms)[39m
+
+
+Started 2015-11-07T15:56:08.336Z GET /?tab=share ::1
+  Render view index [32m(7ms)[39m
+Completed 200 [32m(68ms)[39m
+
+
+Started 2015-11-07T15:56:09.432Z GET /?tab=ask ::1
+  Render view index [32m(7ms)[39m
+Completed 200 [32m(23ms)[39m
+
+
+Started 2015-11-07T15:56:11.865Z GET /?tab=share ::1
+  Render view index [32m(6ms)[39m
+Completed 304 [32m(19ms)[39m
+
+
+Started 2015-11-07T15:56:13.824Z GET /?tab=good ::1
+  Render view index [32m(5ms)[39m
+Completed 304 [32m(17ms)[39m
+
+
+Started 2015-11-07T15:56:14.961Z GET /?tab=all ::1
+  Render view index [32m(4ms)[39m
+Completed 200 [32m(17ms)[39m
+
+
+Started 2015-11-07T15:56:16.032Z GET /?tab=share ::1
+  Render view index [32m(4ms)[39m
+Completed 304 [32m(18ms)[39m
+
+
+Started 2015-11-07T15:56:17.487Z GET /?tab=ask ::1
+  Render view index [32m(3ms)[39m
+Completed 304 [32m(95ms)[39m
+
+
+Started 2015-11-07T15:59:07.617Z GET /about ::1
+  Render view static/about [32m(89ms)[39m
+Completed 200 [32m(99ms)[39m
+
+
+Started 2015-11-07T15:59:12.655Z GET /setting ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-11-07T15:59:23.136Z GET /api ::1
+  Render view static/api [32m(13ms)[39m
+Completed 200 [32m(21ms)[39m
+
+
+Started 2015-11-07T15:59:28.879Z GET /getstart ::1
+  Render view static/getstart [32m(9ms)[39m
+Completed 200 [32m(14ms)[39m
+
+
+Started 2015-11-07T15:59:35.942Z GET /my/messages ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-07T16:01:00.445Z GET /my/messages ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-11-07T16:02:53.032Z GET /getstart ::1
+  Render view static/getstart [32m(15ms)[39m
+
+
+Started 2015-11-07T16:02:56.675Z GET / ::1
+  Render view index [32m(4ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T16:03:16.045Z GET / ::1
+  Render view index [32m(22ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T16:04:38.592Z GET / ::1
+Completed 500 [32m(31ms)[39m
+
+
+Started 2015-11-07T16:07:10.662Z GET / ::1
+Completed 500 [32m(13ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T16:07:21.027Z GET / ::1
+  Render view index [32m(22ms)[39m
+Completed 200 [32m(75ms)[39m
+
+
+Started 2015-11-07T16:08:09.286Z GET /about ::1
+  Render view static/about [32m(44ms)[39m
+Completed 200 [32m(55ms)[39m
+
+
+Started 2015-11-07T16:08:21.589Z GET /setting ::1
+Completed 404 [32m(11ms)[39m
+
+
+Started 2015-11-07T16:09:36.492Z GET /about ::1
+  Render view static/about [32m(8ms)[39m
+Completed 200 [32m(15ms)[39m
+
+
+Started 2015-11-07T16:13:30.479Z GET /getstart ::1
+  Render view static/getstart [32m(15ms)[39m
+Completed 200 [32m(73ms)[39m
+
+
+Started 2015-11-07T16:15:46.039Z POST /signup ::1
+  Render view sign/signup [32m(5ms)[39m
+Completed 422 [32m(49ms)[39m
+
+
+Started 2015-11-07T16:15:51.844Z GET / ::1
+  Render view index [32m(5ms)[39m
+Completed 200 [32m(23ms)[39m
+
+
+Started 2015-11-07T16:16:09.363Z GET / ::1
+  Render view index [32m(12ms)[39m
+Completed 200 [32m(22ms)[39m
+
+
+Started 2015-11-07T16:17:25.520Z GET / ::1
+  Render view index [32m(5ms)[39m
+Completed 304 [32m(24ms)[39m
+
+
+Started 2015-11-07T16:17:40.073Z GET /user/wustxing ::1
+Completed 404 [32m(7ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T16:39:15.659Z GET / ::1
+  Render view index [32m(74ms)[39m
+Completed 200 [32m(518ms)[39m
+
+
+Started 2015-11-07T16:39:20.191Z GET /topic/create ::1
+  Render view topic/edit [32m(69ms)[39m
+Completed 200 [32m(86ms)[39m
+
+
+Started 2015-11-07T16:39:20.880Z GET /topic/www.ypintao.com ::1
+  Render view notify/notify [32m(17ms)[39m
+Completed 404 [32m(30ms)[39m
+
+
+Started 2015-11-07T16:39:53.279Z POST /topic/create ::1
+Completed 200 [32m(39ms)[39m
+
+
+Started 2015-11-07T16:40:14.876Z GET /topic/create ::1
+  Render view topic/edit [32m(8ms)[39m
+Completed 200 [32m(23ms)[39m
+
+
+Started 2015-11-07T16:40:50.592Z POST /topic/create ::1
+Completed 200 [32m(61ms)[39m
+
+
+Started 2015-11-07T16:43:27.105Z GET /topic/create ::1
+  Render view topic/edit [32m(11ms)[39m
+Completed 200 [32m(20ms)[39m
+
+
+Started 2015-11-07T16:43:37.564Z POST /topic/create ::1
+Completed 200 [32m(12ms)[39m
+
+
+Started 2015-11-07T16:44:09.893Z GET /topic/create ::1
+  Render view topic/edit [32m(5ms)[39m
+Completed 200 [32m(14ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://4000:4000
+
+
+
+Started 2015-11-07T16:49:05.512Z GET /topic/create ::1
+  Render view topic/edit [32m(33ms)[39m
+Completed 200 [32m(78ms)[39m
+
+
+Started 2015-11-07T16:49:33.625Z POST /topic/create ::1
+Completed 302 [32m(116ms)[39m
+
+
+Started 2015-11-07T16:49:33.745Z GET /topic/563e2b9d5832c5fc18be35a9 ::1
+  Render view topic/index [32m(63ms)[39m
+Completed 200 [32m(209ms)[39m
+
+
+Started 2015-11-07T16:56:31.174Z GET / ::1
+  Render view index [32m(42ms)[39m
+Completed 200 [32m(103ms)[39m
+
+
+Started 2015-11-07T16:56:31.599Z GET / ::1
+  Render view index [32m(18ms)[39m
+Completed 304 [32m(29ms)[39m
+NodeClub listening on port 4000
+You can debug your app with http://4000:4000
+
+God bless love....
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-21T13:07:48.593Z GET / ::1
+  Render view index [32m(240ms)[39m
+Completed 200 [32m(1000ms)[39m
+
+
+Started 2015-11-21T13:07:53.688Z GET /www.ypintao.com ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-11-21T13:16:18.844Z GET /auth/github ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-21T13:16:18.871Z GET /favicon.ico ::1
+Completed 404 [32m(30ms)[39m
+
+
+Started 2015-11-21T13:16:21.566Z GET /signin ::1
+  Render view sign/signin [32m(33ms)[39m
+Completed 200 [32m(42ms)[39m
+
+
+Started 2015-11-21T13:16:24.686Z GET /signup ::1
+  Render view sign/signup [32m(49ms)[39m
+Completed 200 [32m(53ms)[39m
+
+
+Started 2015-11-21T13:16:25.831Z GET /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 304 [32m(9ms)[39m
+
+
+Started 2015-11-21T13:16:29.710Z GET /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 304 [32m(5ms)[39m
+
+
+Started 2015-11-21T13:16:31.031Z GET /signup ::1
+  Render view sign/signup [32m(2ms)[39m
+Completed 304 [32m(5ms)[39m
+
+
+Started 2015-11-21T13:16:32.159Z GET /about ::1
+  Render view static/about [32m(83ms)[39m
+Completed 200 [32m(86ms)[39m
+
+
+Started 2015-11-21T13:16:33.567Z GET /getstart ::1
+  Render view static/getstart [32m(47ms)[39m
+Completed 200 [32m(51ms)[39m
+
+
+Started 2015-11-21T13:16:36.922Z GET /about ::1
+Completed 304 [32m(7ms)[39m
+  Render view static/about [32m(6ms)[39m
+
+
+Started 2015-11-21T13:16:39.446Z GET /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 304 [32m(7ms)[39m
+
+
+Started 2015-11-21T13:16:55.147Z POST /signin ::1
+  Render view sign/signin [32m(3ms)[39m
+Completed 403 [32m(235ms)[39m
+
+
+Started 2015-11-21T13:17:04.106Z POST /signin ::1
+Completed 302 [32m(113ms)[39m
+
+
+Started 2015-11-21T13:17:04.230Z GET /about ::1
+  Render view static/about [32m(24ms)[39m
+Completed 200 [32m(151ms)[39m
+
+
+Started 2015-11-21T13:18:19.930Z GET /about ::1
+  Render view static/about [32m(22ms)[39m
+Completed 304 [32m(29ms)[39m
+
+
+Started 2015-11-21T13:18:24.944Z GET /topic/create ::1
+  Render view topic/edit [32m(58ms)[39m
+Completed 200 [32m(63ms)[39m
+
+
+Started 2015-11-21T13:18:25.881Z GET /topic/www.ypintao.com ::1
+  Render view notify/notify [32m(21ms)[39m
+Completed 404 [32m(29ms)[39m
+
+
+Started 2015-11-21T13:18:35.789Z POST /topic/create ::1
+  Render view topic/edit [32m(11ms)[39m
+Completed 422 [32m(29ms)[39m
+
+
+Started 2015-11-21T13:18:44.212Z POST /topic/create ::1
+Completed 302 [32m(270ms)[39m
+
+
+Started 2015-11-21T13:18:44.484Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(71ms)[39m
+Completed 200 [32m(568ms)[39m
+
+
+Started 2015-11-21T13:18:50.863Z GET /user/wustxing ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-11-21T13:18:58.509Z GET / ::1
+  Render view index [32m(13ms)[39m
+Completed 200 [32m(36ms)[39m
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+
+
+Started 2015-11-22T09:09:07.308Z GET / ::1
+  Render view index [32m(129ms)[39m
+Completed 200 [32m(245ms)[39m
+
+
+Started 2015-11-22T09:09:08.195Z GET /www.ypintao.com ::1
+Completed 404 [32m(12ms)[39m
+
+
+Started 2015-11-22T09:09:09.845Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(68ms)[39m
+Completed 200 [32m(387ms)[39m
+
+
+Started 2015-11-22T09:09:10.792Z GET /topic/www.ypintao.com ::1
+  Render view notify/notify [32m(27ms)[39m
+Completed 404 [32m(35ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-22T16:29:09.322Z GET / ::1
+  Render view index [32m(38ms)[39m
+Completed 200 [32m(105ms)[39m
+
+
+Started 2015-11-22T16:30:01.705Z GET /user/wustxing ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-11-22T16:30:01.726Z GET /favicon.ico ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-11-22T16:30:06.685Z GET /setting ::1
+Completed 404 [32m(6ms)[39m
+
+
+Started 2015-11-22T16:30:12.900Z POST /signout ::1
+Completed 302 [32m(106ms)[39m
+
+
+Started 2015-11-22T16:30:13.009Z GET / ::1
+  Render view index [32m(16ms)[39m
+Completed 200 [32m(88ms)[39m
+
+
+Started 2015-11-22T16:30:17.371Z GET /signup ::1
+  Render view sign/signup [32m(34ms)[39m
+Completed 200 [32m(38ms)[39m
+
+
+Started 2015-11-22T16:30:18.790Z GET /signin ::1
+  Render view sign/signin [32m(42ms)[39m
+Completed 200 [32m(48ms)[39m
+
+
+Started 2015-11-22T16:30:20.278Z GET /search_pass ::1
+  Render view sign/search_pass [32m(48ms)[39m
+Completed 200 [32m(53ms)[39m
+
+
+Started 2015-11-22T16:30:28.085Z GET /signin ::1
+  Render view sign/signin [32m(2ms)[39m
+Completed 304 [32m(5ms)[39m
+
+
+Started 2015-11-22T16:30:40.267Z POST /signin ::1
+  Render view sign/signin [32m(2ms)[39m
+Completed 403 [32m(229ms)[39m
+
+
+Started 2015-11-22T16:30:46.882Z POST /signin ::1
+Completed 302 [32m(98ms)[39m
+
+
+Started 2015-11-22T16:30:46.983Z GET / ::1
+  Render view index [32m(7ms)[39m
+Completed 200 [32m(21ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-22T17:40:22.985Z GET / ::1
+  Render view index [32m(44ms)[39m
+Completed 200 [32m(163ms)[39m
+
+
+Started 2015-11-22T17:40:27.192Z GET /user/wustxing ::1
+  Render view user/index [32m(36ms)[39m
+Completed 200 [32m(220ms)[39m
+
+
+Started 2015-11-22T17:40:28.957Z GET /user/www.ypintao.com ::1
+  Render view notify/notify [32m(5ms)[39m
+Completed 404 [32m(40ms)[39m
+
+
+Started 2015-11-22T17:40:36.190Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(27ms)[39m
+Completed 200 [32m(89ms)[39m
+
+
+Started 2015-11-22T17:40:38.792Z GET /user/wustxing ::1
+  Render view user/index [32m(9ms)[39m
+Completed 200 [32m(78ms)[39m
+
+
+Started 2015-11-22T17:40:39.918Z GET /topic/563e2b9d5832c5fc18be35a9 ::1
+  Render view topic/index [32m(11ms)[39m
+Completed 200 [32m(34ms)[39m
+
+
+Started 2015-11-22T17:40:41.190Z GET /user/wustxing ::1
+  Render view user/index [32m(9ms)[39m
+Completed 200 [32m(32ms)[39m
+
+
+Started 2015-11-22T17:40:56.582Z GET /getstart ::1
+  Render view static/getstart [32m(77ms)[39m
+Completed 200 [32m(82ms)[39m
+
+
+Started 2015-11-22T17:41:00.127Z GET /about ::1
+  Render view static/about [32m(47ms)[39m
+Completed 200 [32m(52ms)[39m
+
+
+Started 2015-11-22T17:43:59.920Z GET /setting ::1
+  Render view user/setting [32m(34ms)[39m
+Completed 200 [32m(41ms)[39m
+
+
+Started 2015-11-22T17:44:08.629Z POST /signout ::1
+Completed 302 [32m(29ms)[39m
+
+
+Started 2015-11-22T17:44:08.660Z GET / ::1
+  Render view index [32m(8ms)[39m
+Completed 200 [32m(30ms)[39m
+
+
+Started 2015-11-22T17:44:11.367Z GET /?tab=good ::1
+  Render view index [32m(4ms)[39m
+Completed 200 [32m(11ms)[39m
+
+
+Started 2015-11-22T17:44:12.350Z GET /?tab=share ::1
+  Render view index [32m(6ms)[39m
+Completed 200 [32m(16ms)[39m
+
+
+Started 2015-11-22T17:44:13.462Z GET /?tab=ask ::1
+  Render view index [32m(3ms)[39m
+Completed 200 [32m(13ms)[39m
+
+
+Started 2015-11-22T17:44:14.669Z GET /?tab=share ::1
+  Render view index [32m(6ms)[39m
+Completed 304 [32m(17ms)[39m
+
+
+Started 2015-11-22T17:44:16.030Z GET /?tab=good ::1
+  Render view index [32m(4ms)[39m
+Completed 304 [32m(10ms)[39m
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+
+
+Started 2015-11-23T07:36:38.361Z GET / ::1
+Completed 500 [32m(116ms)[39m
+
+
+Started 2015-11-23T07:36:54.224Z GET / ::1
+  Render view index [32m(176ms)[39m
+Completed 200 [32m(841ms)[39m
+
+
+Started 2015-11-23T07:37:03.787Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(76ms)[39m
+Completed 200 [32m(304ms)[39m
+
+
+Started 2015-11-23T07:37:07.455Z GET /signin ::1
+  Render view sign/signin [32m(41ms)[39m
+Completed 200 [32m(46ms)[39m
+
+
+Started 2015-11-23T07:37:15.500Z POST /signin ::1
+Completed 302 [32m(222ms)[39m
+
+
+Started 2015-11-23T07:37:15.724Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(18ms)[39m
+Completed 200 [32m(83ms)[39m
+
+
+Started 2015-11-23T07:37:23.607Z POST /56506f34afe9b5a83a95fb0a/reply ::1
+Completed 404 [32m(10ms)[39m
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+
+
+Started 2015-11-24T12:17:54.537Z GET /favicon.ico ::1
+Completed 404 [32m(611ms)[39m
+
+
+Started 2015-11-24T12:17:55.568Z GET / ::1
+  Render view index [32m(540ms)[39m
+
+
+Started 2015-11-24T12:17:57.558Z GET / ::1
+  Render view index [32m(13ms)[39m
+
+
+Started 2015-11-24T12:17:57.650Z GET / ::1
+  Render view index [32m(8ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T12:34:54.721Z GET /favicon.ico ::1
+Completed 404 [32m(156ms)[39m
+
+
+Started 2015-11-24T12:34:55.527Z GET / ::1
+  Render view index [32m(188ms)[39m
+Completed 200 [32m(277ms)[39m
+
+
+Started 2015-11-24T12:34:59.510Z GET /signin ::1
+  Render view sign/signin [32m(32ms)[39m
+Completed 200 [32m(37ms)[39m
+
+
+Started 2015-11-24T12:34:59.821Z GET /www.ypintao.com ::1
+Completed 404 [32m(4ms)[39m
+
+
+Started 2015-11-24T12:35:08.066Z POST /signin ::1
+  Render view sign/signin [32m(5ms)[39m
+Completed 403 [32m(217ms)[39m
+
+
+Started 2015-11-24T12:35:15.616Z POST /signin ::1
+Completed 302 [32m(104ms)[39m
+
+
+Started 2015-11-24T12:35:15.722Z GET / ::1
+  Render view index [32m(41ms)[39m
+Completed 200 [32m(65ms)[39m
+
+
+Started 2015-11-24T12:38:21.050Z GET /user/wustxing ::1
+  Render view user/index [32m(26ms)[39m
+Completed 200 [32m(85ms)[39m
+
+
+Started 2015-11-24T12:38:21.250Z GET /user/www.ypintao.com ::1
+  Render view notify/notify [32m(50ms)[39m
+Completed 404 [32m(56ms)[39m
+
+
+Started 2015-11-24T12:38:23.011Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(25ms)[39m
+Completed 200 [32m(69ms)[39m
+
+
+Started 2015-11-24T12:38:23.578Z GET /topic/www.ypintao.com ::1
+  Render view notify/notify [32m(5ms)[39m
+Completed 404 [32m(12ms)[39m
+
+
+Started 2015-11-24T12:38:26.656Z POST /56506f34afe9b5a83a95fb0a/reply ::1
+Completed 302 [32m(69ms)[39m
+
+
+Started 2015-11-24T12:38:26.728Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(37ms)[39m
+Completed 200 [32m(66ms)[39m
+
+
+Started 2015-11-24T12:38:31.655Z POST /reply/56545a42fe71583c1bf67791/up ::1
+Completed 200 [32m(60ms)[39m
+
+
+Started 2015-11-24T12:38:34.152Z GET /reply/56545a42fe71583c1bf67791/edit ::1
+  Render view reply/edit [32m(43ms)[39m
+Completed 200 [32m(61ms)[39m
+
+
+Started 2015-11-24T12:38:34.406Z GET /reply/56545a42fe71583c1bf67791/www.ypintao.com ::1
+Completed 404 [32m(5ms)[39m
+
+
+Started 2015-11-24T12:38:45.561Z POST /56506f34afe9b5a83a95fb0a/reply ::1
+Completed 302 [32m(26ms)[39m
+
+
+Started 2015-11-24T12:38:45.589Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(19ms)[39m
+Completed 200 [32m(49ms)[39m
+
+
+Started 2015-11-24T12:39:05.391Z POST /56506f34afe9b5a83a95fb0a/reply ::1
+Completed 302 [32m(34ms)[39m
+
+
+Started 2015-11-24T12:39:05.427Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(13ms)[39m
+Completed 200 [32m(56ms)[39m
+
+
+Started 2015-11-24T13:08:42.428Z GET / ::1
+  Render view index [32m(11ms)[39m
+Completed 200 [32m(77ms)[39m
+
+
+Started 2015-11-24T13:08:52.933Z GET /?tab=share ::1
+  Render view index [32m(7ms)[39m
+Completed 200 [32m(25ms)[39m
+
+
+Started 2015-11-24T13:08:54.938Z GET /topic/create ::1
+  Render view topic/edit [32m(27ms)[39m
+Completed 200 [32m(30ms)[39m
+
+
+Started 2015-11-24T13:08:58.627Z GET / ::1
+  Render view index [32m(7ms)[39m
+Completed 304 [32m(25ms)[39m
+
+
+Started 2015-11-24T13:09:17.742Z GET /?tab=good ::1
+  Render view index [32m(8ms)[39m
+Completed 200 [32m(22ms)[39m
+
+
+Started 2015-11-24T13:09:18.940Z GET /?tab=all ::1
+  Render view index [32m(7ms)[39m
+Completed 200 [32m(24ms)[39m
+
+
+Started 2015-11-24T13:09:19.797Z GET /?tab=share ::1
+  Render view index [32m(13ms)[39m
+Completed 304 [32m(30ms)[39m
+
+
+Started 2015-11-24T13:09:24.253Z GET /topic/56506f34afe9b5a83a95fb0a ::1
+  Render view topic/index [32m(15ms)[39m
+Completed 200 [32m(45ms)[39m
+
+
+Started 2015-11-24T13:09:35.396Z GET /user/wustxing ::1
+  Render view user/index [32m(13ms)[39m
+Completed 200 [32m(43ms)[39m
+
+
+Started 2015-11-24T13:09:41.876Z GET /user/wustxing/replies ::1
+  Render view user/replies [32m(11ms)[39m
+Completed 200 [32m(31ms)[39m
+
+
+Started 2015-11-24T13:09:42.081Z GET /user/wustxing/www.ypintao.com ::1
+Completed 404 [32m(8ms)[39m
+
+
+Started 2015-11-24T13:09:47.228Z GET /setting ::1
+  Render view user/setting [32m(12ms)[39m
+Completed 200 [32m(21ms)[39m
+
+
+Started 2015-11-24T15:28:57.071Z GET / ::1
+  Render view index [32m(14ms)[39m
+Completed 200 [32m(72ms)[39m
+
+
+Started 2015-11-24T17:34:03.738Z POST /signout ::1
+Completed 302 [32m(19ms)[39m
+
+
+Started 2015-11-24T17:34:03.762Z GET / ::1
+  Render view index [32m(226ms)[39m
+Completed 200 [32m(354ms)[39m
+
+
+Started 2015-11-24T17:34:06.468Z GET /signin ::1
+  Render view sign/signin [32m(31ms)[39m
+Completed 200 [32m(33ms)[39m
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:42:52.032Z GET / ::1
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:45:16.868Z GET / ::1
+Completed 200 (67ms)
+
+
+Started 2015-11-24T18:45:16.990Z GET /favicon.ico ::1
+Completed 200 (20ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:45:38.485Z GET / ::1
+Completed 500 (59ms)
+
+
+Started 2015-11-24T18:45:38.563Z GET /favicon.ico ::1
+Completed 500 (28ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:45:57.911Z GET / ::1
+Completed 200 (45ms)
+
+
+Started 2015-11-24T18:45:57.997Z GET /favicon.ico ::1
+Completed 200 (30ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:46:19.780Z GET / ::1
+Completed 500 (42ms)
+
+
+Started 2015-11-24T18:46:19.850Z GET /favicon.ico ::1
+Completed 500 (33ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:46:29.699Z GET / ::1
+Completed 200 (26ms)
+
+
+Started 2015-11-24T18:46:29.748Z GET /favicon.ico ::1
+Completed 200 (16ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:46:58.409Z GET / ::1
+Completed 500 (41ms)
+
+
+Started 2015-11-24T18:46:58.462Z GET /favicon.ico ::1
+Completed 500 (30ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:47:38.694Z GET / ::1
+Completed 200 (11ms)
+
+
+Started 2015-11-24T18:47:38.716Z GET /favicon.ico ::1
+Completed 200 (3ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:48:05.470Z GET / ::1
+Completed 304 (12ms)
+
+
+Started 2015-11-24T18:48:05.491Z GET /favicon.ico ::1
+Completed 304 (4ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:48:34.401Z GET / ::1
+Completed 304 (12ms)
+
+
+Started 2015-11-24T18:48:34.422Z GET /favicon.ico ::1
+Completed 304 (4ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:48:46.836Z GET / ::1
+Completed 200 (13ms)
+
+
+Started 2015-11-24T18:48:46.861Z GET /favicon.ico ::1
+Completed 200 (4ms)
+NodeClub listening on port 4000
+God bless love....
+You can debug your app with http://localhost:4000
+
+
+
+Started 2015-11-24T18:49:00.978Z GET / ::1
+Completed 200 (13ms)
+
+
+Started 2015-11-24T18:49:01.005Z GET /favicon.ico ::1
+Completed 200 (4ms)
+NodeClub listening on port 4000
+You can debug your app with http://localhost:4000
+
+God bless love....
+
+
+Started 2015-11-25T03:37:59.182Z GET / ::1
+Completed 304 (42ms)
+
+
+Started 2015-11-25T03:37:59.514Z GET /favicon.ico ::1
+Completed 304 (3ms)
